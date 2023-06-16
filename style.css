@@ -1,0 +1,48 @@
+body {
+    background-color: #2F1B25;
+    font-family: "Helvetica";
+}
+
+
+
+h1 {
+    font-size: 7rem;
+    text-align: center;
+    color: #E3D26F
+}
+
+h3 {
+    text-align: left;
+    font-size: 3rem;
+    padding: 5%;
+    color: #A15E49
+}
+
+p {
+    text-align: left;
+    font-size: 3rem;
+    padding: 5%;
+    color: #CA895F
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 5%;
+}
+
+
+img {
+    flex: 1 1 auto;
+    width: 40%;
+    max-width: 720px;
+    height: auto;
+    padding: 5%;
+}
+
+h3 {
+    flex: 1 1 auto;
+    font-size: 3rem;
+    padding: 5%;
+    text-align: left;
+}
